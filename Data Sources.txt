@@ -1,0 +1,8 @@
+Data Source Links: 
+1.	https://ourworldindata.org/coronavirus-source-data
+2.	https://github.com/owid/covid-19-data/tree/master/public/data/ecdc
+3.	https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv
+4.	https://www.nytimes.com/article/coronavirus-county-data-us.html
+5.	http://ghdx.healthdata.org/us-data
+6.	https://www.countyhealthrankings.org/explore-health-rankings/measures-data-sources/county-health-rankings-model/health-outcomes/quality-of-life
+7.	https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation
